@@ -35,6 +35,20 @@ else:
   print("Number is not prime")
 ```
 
+## Reverse a String
+
+Given an input string, produce it in reverse
+
+### Concept
+
+Enumeration
+
+### Code
+
+input_string = input()
+
+for i in enumerate(
+
 # Algorithms - Java
 
 ## Prime Number
