@@ -3,6 +3,12 @@ A (soon to be) long set of algorithms useful to know as a software engineer
 
 # Algorithms - Python
 
+## Binary Tree
+
+Produce code to add a node to a binary tree
+
+### Code
+
 ## Prime Number
 
 Determine if a number is prime
@@ -46,8 +52,6 @@ Enumeration
 ### Code
 
 input_string = input()
-
-for i in enumerate(
 
 # Algorithms - Java
 
